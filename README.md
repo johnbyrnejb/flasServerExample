@@ -6,10 +6,12 @@ The aim of this readme is to give a quick outline of what is needed to run this 
 
 Run using Python3.4
 
-## To Launch
+## Dependencies
 
-Within th evirtual environment install the following:
+Within the virtual environment install the following:
 
 ```$ pip install flask```
+
+```$ pip install requests```
 
 
