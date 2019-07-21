@@ -14,4 +14,7 @@ Within the virtual environment install the following:
 
 ```$ pip install requests```
 
+## Repo description
+
+The aim of this repo is to create a mock endpoint to test changes in a different project. The aim of the endpoint is to return mocked responses. It will pick a random response from the error set.
 
